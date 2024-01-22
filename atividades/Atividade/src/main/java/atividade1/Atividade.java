@@ -1,8 +1,9 @@
 package atividade1;
 
 /**
- *
- * @author maria
+ * Implemente um contador de cliques que notifique a quem estiver interessado sempre que o número de cliques mudar.
+*
+ * @author mariana
  */
 public class Atividade {
 
