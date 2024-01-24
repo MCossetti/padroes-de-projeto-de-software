@@ -1,5 +1,9 @@
 # Padrões de Projeto de Software
 
+IDE utilizado: NetBeans
+
+Linguagem utilizada: Java
+
 ### Observer:
 - [Atividade](https://github.com/MCossetti/padroes-de-projeto-de-software/tree/main/Observer/Atividade) - Implemente um contador de cliques que notifique a quem estiver interessado sempre que o número de cliques mudar.
 - [Atividade2](https://github.com/MCossetti/padroes-de-projeto-de-software/tree/main/Observer/Atividade2) - Implemente um sistema de alerta de temperatura que envie notificações para seus observadores sempre que a temperatura mudar.
