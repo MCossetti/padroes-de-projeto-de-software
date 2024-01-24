@@ -1,4 +1,4 @@
-# padroes-de-projeto-de-software
+# Padrões de Projeto de Software
 
 ### Observer:
 - [Atividade](https://github.com/MCossetti/padroes-de-projeto-de-software/tree/main/Observer/Atividade) - Implemente um contador de cliques que notifique a quem estiver interessado sempre que o número de cliques mudar.
