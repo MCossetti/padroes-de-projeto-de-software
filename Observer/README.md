@@ -1,6 +1,6 @@
 # Observer
 
-O padrão Observer é um padrão de projeto de software no qual um objeto, denominado subject, mantém uma lista de seus dependentes, chamados observers, e os notifica automaticamente sobre quaisquer mudanças de estado, geralmente chamando um de seus métodos  .
+O padrão Observer é um padrão de projeto de software no qual um objeto, denominado subject, mantém uma lista de seus dependentes, chamados observers, e os notifica automaticamente sobre quaisquer mudanças de estado, geralmente chamando um de seus métodos.
 
 Para conseguir acessar as atividades com maior facilidade, basta clicar nos links:
 
