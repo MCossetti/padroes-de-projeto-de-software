@@ -27,4 +27,11 @@ public class Facade {
     public void remover(Modelo modelo) {
         baseDeDados.remocao(modelo);
     }
+    
+    public void verificar(Modelo modelo) {
+        this.baseDeDados.cadastro(modelo);
+        this.baseDeDados.recuperacao(modelo.name);
+        this.baseDeDados.atualizacao(modelo);
+        this.baseDeDados.remocao(modelo);
+    }
 }

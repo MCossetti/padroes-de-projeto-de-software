@@ -1,4 +1,4 @@
-package atividade;
+    package atividade;
 
 /**
  * Considere uma classe Cliente que precisa interagir com uma classe BaseDeDados
@@ -18,10 +18,15 @@ public class Atividade {
         
         Facade facade = new Facade();
         
-        facade.cadastrar(jose);
-        facade.recuperar("José Lucio Azevedo");
-        facade.atualizacao(jose);
-        facade.cadastrar(mariana);
-        facade.remover(mariana);
+        /**
+         * facade.cadastrar(jose);
+         * facade.recuperar("José Lucio Azevedo");
+         * facade.atualizacao(jose);
+         * facade.cadastrar(mariana);
+         * facade.remover(mariana);*/
+        
+        facade.verificar(jose);
+        
+        facade.verificar(mariana);
     }
 }
