@@ -4,4 +4,4 @@ O padrão Adapter converte a interface de uma classe para outra interface que o 
 
 Para conseguir acessar a atividade com maior facilidade, basta clicar no link:
 
-- Atividade: Uma classe Cliente precisa requisitar serviços de uma classe preexistente cuja interface não é a interface esperada pela classe Cliente. Estabeleça uma solução usando padrões que resolva o problema de discrepância das interfaces.
+- [Atividade](https://github.com/MCossetti/padroes-de-projeto-de-software/tree/main/Adapter/Atividade): Uma classe Cliente precisa requisitar serviços de uma classe preexistente cuja interface não é a interface esperada pela classe Cliente. Estabeleça uma solução usando padrões que resolva o problema de discrepância das interfaces.
