@@ -13,3 +13,7 @@ Para conseguir acessar as atividades com maior facilidade, basta clicar nos link
 - [Atividade4](https://github.com/MCossetti/padroes-de-projeto-de-software/tree/main/Observer/Atividade4): Implemente um sistema de estoque que envie notificações para aqueles que monitoram sempre que a quantidade de um produto mudar.
   
 - [Atividade5](https://github.com/MCossetti/padroes-de-projeto-de-software/tree/main/Observer/Atividade5): Implemente um sistema de chat que envie notificações para outros clientes sempre que uma nova mensagem for enviada.
+
+- [ExtraObserver](https://github.com/MCossetti/padroes-de-projeto-de-software/tree/main/Observer/ExtraObserver): Suponha que você esteja desenvolvendo um sistema de notificação de preços para uma loja online. O sistema deve notificar os clientes sempre que o preço de um produto que está interessado for alterado.
+
+- [ExtraObserver2](https://github.com/MCossetti/padroes-de-projeto-de-software/tree/main/Observer/ExtraObserver2): Desenvolva um sistema de urna eletrônica e boletim de urna para uma eleição. O sistema deve permitir que os eleitores votem em candidatos e que os votos sejam contabilizados e exibidos em um boletim em tempo real.
