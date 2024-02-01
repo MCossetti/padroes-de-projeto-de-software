@@ -13,3 +13,7 @@ Para conseguir acessar as atividades com maior facilidade, basta clicar nos link
 - [Atividade4](https://github.com/MCossetti/padroes-de-projeto-de-software/tree/main/Decorator/Atividade4): Adote o padrão decorator na classe Botao, incluindo o método render(). Este método deve tratar da renderização do botão básico, enquanto permitindo a definição de bordas simples, duplas ou tracejadas.
 
 - [Atividade5](https://github.com/MCossetti/padroes-de-projeto-de-software/tree/main/Decorator/Atividade5): Implemente o padrão decorator na classe Formulario, introduzindo o método render(). Este método deve lidar com a renderização do formulário básico, enquanto oferece a flexibilidade para adicionar campos como texto, seleção ou data.
+
+- [ExtraDecorator](https://github.com/MCossetti/padroes-de-projeto-de-software/tree/main/Decorator/ExtraDecorator): Desenvolva um sistema para o McDonalds que permita que os clientes crie hambúrgueres com ingredientes personalizados.
+
+- [ExtraDecorator2](https://github.com/MCossetti/padroes-de-projeto-de-software/tree/main/Decorator/ExtraDecorator2): Suponha que você esteja desenvolvendo um sistema de geração de relatórios contábeis para uma empresa. Este sistema deve ser capaz de gerar relatórios financeiros com diferentes níveis de detalhes e formatações (HTML, PDF, Relatorio Simples, Relatorio Completo).
